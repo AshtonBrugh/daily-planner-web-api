@@ -1,7 +1,7 @@
 # daily-planner-web-api
 
 ## Description
-The purpose of this website is to create a work place daily planner. When it is the current time the text field has a red background, when the time has already past the text field has a grey background, and when the time has yet to happen it is a green background. Another enhancement to the site is the user can save their tasks using the save button and refresh the page to still have their inputs. This was accomplished using HTML, CSS, Javascript, and the Bootrap,jQuery, and moment.js libraries.
+The purpose of this website is to create a work place daily planner. When it is the current time the text field has a red background, when the time has already past the text field has a grey background, and when the time has yet to happen it has a green background. Another enhancement to the site is the user can save their tasks using the save button and refresh the page to still have their inputs. This was accomplished using HTML, CSS, Javascript, and the Bootrap,jQuery, and moment.js libraries.
 
 This goal was achieved by the following steps: <br>
 •Accessing Moment to display the current date and time at the top of the page. <br>
